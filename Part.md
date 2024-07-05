@@ -1,23 +1,22 @@
-# **All the Parts**
-**Here are all the parts that you will need:
-**
-## **LCD Display **
+# All the Parts
+
+## LCD Display
 
 - Raspberry Pi
 - Bread Broad
 - 
-## **Distance Sensor**
+## Distance Sensor
 
 - Raspberry Pi
 - Bread Broad
 
-## **Servo Motor**
+## Servo Motor
 
 - Raspberry Pi
 - Bread Broad
 
 
-## **LED Control With Button**
+## LED Control With Button
 
 - Raspberry Pi
 - Bread Broad
