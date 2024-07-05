@@ -11,3 +11,4 @@ Then I was hired as an SA for one of the BECS summers and I wanted to show the o
 
 If you wish to add a project or idea. Feel free to do so. 
 
+If add a project please write it down by adding "# <new project name>" and then part add the under it. Also, please make a slideshow so people can flow along. record if you can 
