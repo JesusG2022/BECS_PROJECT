@@ -1,6 +1,6 @@
 # **All the Parts**
-**Here are all the parts that you will need: **
-
+**Here are all the parts that you will need:
+**
 ## **LCD Display **
 
 - Raspberry Pi
