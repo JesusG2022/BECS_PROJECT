@@ -11,4 +11,4 @@ Then I was hired as an SA for one of the BECS summers and I wanted to show the o
 
 If you wish to add a project or idea. Feel free to do so. 
  
-If add a project please write it down in **"_PART.md_"** by adding "## (new project name)" and then part add the under it. Also, please make a slideshow so people can flow along. record if you can 
+If add a project please write it down in [**"_PART.md_"**](https://github.com/JesusG2022/BECS_PROJECT/blob/main/Part.md#all-the-parts) by adding "## (new project name)" and then part add the under it. Also, please make a slideshow so people can flow along. record if you can 
