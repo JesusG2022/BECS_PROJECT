@@ -1,6 +1,6 @@
 # All the Parts
-****All the parts that you need are here: 
-****
+**All the parts that you need are here: 
+**
 ## LCD Display project
 
 - Raspberry Pi
