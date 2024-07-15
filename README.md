@@ -9,6 +9,10 @@ Then I was hired as an SA for one of the BECS summers and I wanted to show the o
 
 # Contridute
 
-If you wish to add a project or idea. Feel free to do so. 
+Suppose you wish to add a project or idea. Feel free to do so. 
  
-If add a project please write it down in [**"_PART.md_"**](https://github.com/JesusG2022/BECS_PROJECT/blob/main/Part.md#all-the-parts) by adding "## (new project name)" and then part adds the under it. Also, please make a slideshow so people can follow along. If you can record your self to help people out :)
+If you add a project please write it down in [**"_PART.md_"**](https://github.com/JesusG2022/BECS_PROJECT/blob/main/Part.md#all-the-parts) by adding "## (new project name)" and then part adds the under it. 
+
+Also please if you can, make a slideshow so people can follow along in the [**slide**](https://github.com/JesusG2022/BECS_PROJECT/tree/main/slides) folder. Just add a new file and share the link so that everyone can view it. 
+
+If you can record yourself to help people out. It can be you test it or show how to build it. If you do put it in the [**Videos**](https://github.com/JesusG2022/BECS_PROJECT/tree/main/Video)  folder :)
