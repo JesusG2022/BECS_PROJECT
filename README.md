@@ -1,6 +1,6 @@
 # BECS_PROJECT
 
-Hi everyone, My name is Jesus Garcia Loyola. I am a CS++ cohort 9 progarm. 
+Hi everyone, My name is Jesus Garcia Loyola. I am a CS++ cohort 9 program at CSUMB. 
 
 # Background
 During my Second semester, we have to research a personal project and I choose a Raspberry Pi as my topic. I enjoyed the topic and tried to build but I failed. So I tried a different tutorial and it did work.
